@@ -3,7 +3,7 @@
 An interactive Excel dashboard tracking chocolate sales performance, profitability, and salesperson KPIs across product categories (Dec 2021 – Dec 2022).
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-04-01 203140.png)
+![Dashboard](Screenshot%202026-04-01%20203140.png)
 
 ## Key KPIs
 - Total Sales: $38,77,566
